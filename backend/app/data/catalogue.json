@@ -1,0 +1,2492 @@
+{
+  "items": [
+    {
+      "id": "item_001",
+      "name": "Classic Black Leather Jacket",
+      "category": "jacket",
+      "price": 89.99,
+      "currency": "GBP",
+      "retailer": "Urban Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Classic+Black+Leather+Jacket",
+      "image": "https://placehold.co/400x500/png?text=Classic+Black+Leather+Jacket",
+      "style_tags": [
+        "dark",
+        "edgy",
+        "formal"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          60,
+          55,
+          50
+        ],
+        [
+          100,
+          95,
+          85
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.32,
+        "contrast": 0.58,
+        "brightness": 0.25,
+        "saturation": 0.15
+      },
+      "shape": {
+        "aspect_ratio": 1.3,
+        "coverage": 0.68
+      }
+    },
+    {
+      "id": "item_002",
+      "name": "White Minimalist T-Shirt",
+      "category": "t-shirt",
+      "price": 24.99,
+      "currency": "GBP",
+      "retailer": "Simple Style",
+      "link": "https://www.google.com/search?tbm=shop&q=White+Minimalist+T-Shirt",
+      "image": "https://placehold.co/400x500/png?text=White+Minimalist+T-Shirt",
+      "style_tags": [
+        "minimalist",
+        "casual",
+        "professional"
+      ],
+      "dominant_colors": [
+        [
+          245,
+          245,
+          245
+        ],
+        [
+          220,
+          220,
+          220
+        ],
+        [
+          180,
+          180,
+          180
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.08,
+        "contrast": 0.25,
+        "brightness": 0.92,
+        "saturation": 0.05
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.55
+      }
+    },
+    {
+      "id": "item_003",
+      "name": "Dark Denim Jeans",
+      "category": "jeans",
+      "price": 59.99,
+      "currency": "GBP",
+      "retailer": "Denim Co",
+      "link": "https://www.google.com/search?tbm=shop&q=Dark+Denim+Jeans",
+      "image": "https://placehold.co/400x500/png?text=Dark+Denim+Jeans",
+      "style_tags": [
+        "dark",
+        "casual"
+      ],
+      "dominant_colors": [
+        [
+          35,
+          45,
+          55
+        ],
+        [
+          70,
+          80,
+          95
+        ],
+        [
+          110,
+          120,
+          135
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.45,
+        "brightness": 0.35,
+        "saturation": 0.25
+      },
+      "shape": {
+        "aspect_ratio": 2.1,
+        "coverage": 0.62
+      }
+    },
+    {
+      "id": "item_004",
+      "name": "Burgundy Wool Coat",
+      "category": "coat",
+      "price": 129.99,
+      "currency": "GBP",
+      "retailer": "Elegant Wear",
+      "link": "https://www.google.com/search?tbm=shop&q=Burgundy+Wool+Coat",
+      "image": "https://placehold.co/400x500/png?text=Burgundy+Wool+Coat",
+      "style_tags": [
+        "formal",
+        "vintage",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          120,
+          40,
+          40
+        ],
+        [
+          150,
+          70,
+          70
+        ],
+        [
+          100,
+          30,
+          30
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.35,
+        "contrast": 0.52,
+        "brightness": 0.38,
+        "saturation": 0.55
+      },
+      "shape": {
+        "aspect_ratio": 1.4,
+        "coverage": 0.72
+      }
+    },
+    {
+      "id": "item_005",
+      "name": "Grey Hoodie",
+      "category": "hoodie",
+      "price": 44.99,
+      "currency": "GBP",
+      "retailer": "Casual Zone",
+      "link": "https://www.google.com/search?tbm=shop&q=Grey+Hoodie",
+      "image": "https://placehold.co/400x500/png?text=Grey+Hoodie",
+      "style_tags": [
+        "casual",
+        "dark",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          90,
+          90,
+          90
+        ],
+        [
+          120,
+          120,
+          120
+        ],
+        [
+          60,
+          60,
+          60
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.22,
+        "contrast": 0.38,
+        "brightness": 0.48,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 1.2,
+        "coverage": 0.7
+      }
+    },
+    {
+      "id": "item_006",
+      "name": "Vintage Beige Shirt",
+      "category": "shirt",
+      "price": 34.99,
+      "currency": "GBP",
+      "retailer": "Retro Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Vintage+Beige+Shirt",
+      "image": "https://placehold.co/400x500/png?text=Vintage+Beige+Shirt",
+      "style_tags": [
+        "vintage",
+        "casual",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          200,
+          180,
+          150
+        ],
+        [
+          220,
+          200,
+          170
+        ],
+        [
+          180,
+          160,
+          130
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.12,
+        "contrast": 0.32,
+        "brightness": 0.72,
+        "saturation": 0.35
+      },
+      "shape": {
+        "aspect_ratio": 1.15,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_007",
+      "name": "Black Formal Boots",
+      "category": "boots",
+      "price": 79.99,
+      "currency": "GBP",
+      "retailer": "Boot Palace",
+      "link": "https://www.google.com/search?tbm=shop&q=Black+Formal+Boots",
+      "image": "https://placehold.co/400x500/png?text=Black+Formal+Boots",
+      "style_tags": [
+        "formal",
+        "dark",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          20,
+          20,
+          20
+        ],
+        [
+          50,
+          50,
+          50
+        ],
+        [
+          80,
+          80,
+          80
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.38,
+        "contrast": 0.55,
+        "brightness": 0.28,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 1.8,
+        "coverage": 0.45
+      }
+    },
+    {
+      "id": "item_008",
+      "name": "Bright Red Dress",
+      "category": "dress",
+      "price": 69.99,
+      "currency": "GBP",
+      "retailer": "Dress Studio",
+      "link": "https://www.google.com/search?tbm=shop&q=Bright+Red+Dress",
+      "image": "https://placehold.co/400x500/png?text=Bright+Red+Dress",
+      "style_tags": [
+        "casual",
+        "vibrant"
+      ],
+      "dominant_colors": [
+        [
+          220,
+          40,
+          40
+        ],
+        [
+          240,
+          80,
+          80
+        ],
+        [
+          180,
+          20,
+          20
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.15,
+        "contrast": 0.48,
+        "brightness": 0.55,
+        "saturation": 0.82
+      },
+      "shape": {
+        "aspect_ratio": 1.6,
+        "coverage": 0.58
+      }
+    },
+    {
+      "id": "item_009",
+      "name": "Navy Blazer",
+      "category": "jacket",
+      "price": 99.99,
+      "currency": "GBP",
+      "retailer": "Professional Attire",
+      "link": "https://www.google.com/search?tbm=shop&q=Navy+Blazer",
+      "image": "https://placehold.co/400x500/png?text=Navy+Blazer",
+      "style_tags": [
+        "formal",
+        "professional",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          25,
+          45,
+          85
+        ],
+        [
+          45,
+          65,
+          110
+        ],
+        [
+          70,
+          90,
+          140
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.3,
+        "contrast": 0.5,
+        "brightness": 0.38,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 1.25,
+        "coverage": 0.65
+      }
+    },
+    {
+      "id": "item_010",
+      "name": "Khaki Chinos",
+      "category": "trousers",
+      "price": 49.99,
+      "currency": "GBP",
+      "retailer": "Comfort Wear",
+      "link": "https://www.google.com/search?tbm=shop&q=Khaki+Chinos",
+      "image": "https://placehold.co/400x500/png?text=Khaki+Chinos",
+      "style_tags": [
+        "casual",
+        "professional",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          190,
+          175,
+          140
+        ],
+        [
+          210,
+          195,
+          160
+        ],
+        [
+          170,
+          155,
+          120
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.18,
+        "contrast": 0.35,
+        "brightness": 0.68,
+        "saturation": 0.3
+      },
+      "shape": {
+        "aspect_ratio": 2.0,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_011",
+      "name": "Striped Cotton Shirt",
+      "category": "shirt",
+      "price": 39.99,
+      "currency": "GBP",
+      "retailer": "Pattern World",
+      "link": "https://www.google.com/search?tbm=shop&q=Striped+Cotton+Shirt",
+      "image": "https://placehold.co/400x500/png?text=Striped+Cotton+Shirt",
+      "style_tags": [
+        "casual",
+        "professional"
+      ],
+      "dominant_colors": [
+        [
+          240,
+          240,
+          240
+        ],
+        [
+          40,
+          40,
+          40
+        ],
+        [
+          100,
+          130,
+          160
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.22,
+        "contrast": 0.42,
+        "brightness": 0.62,
+        "saturation": 0.35
+      },
+      "shape": {
+        "aspect_ratio": 1.12,
+        "coverage": 0.58
+      }
+    },
+    {
+      "id": "item_012",
+      "name": "Black Ankle Boots",
+      "category": "boots",
+      "price": 74.99,
+      "currency": "GBP",
+      "retailer": "Shoe Collection",
+      "link": "https://www.google.com/search?tbm=shop&q=Black+Ankle+Boots",
+      "image": "https://placehold.co/400x500/png?text=Black+Ankle+Boots",
+      "style_tags": [
+        "edgy",
+        "dark",
+        "casual"
+      ],
+      "dominant_colors": [
+        [
+          25,
+          25,
+          25
+        ],
+        [
+          55,
+          55,
+          55
+        ],
+        [
+          85,
+          85,
+          85
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.35,
+        "contrast": 0.52,
+        "brightness": 0.32,
+        "saturation": 0.12
+      },
+      "shape": {
+        "aspect_ratio": 1.6,
+        "coverage": 0.5
+      }
+    },
+    {
+      "id": "item_013",
+      "name": "Cream Wool Sweater",
+      "category": "t-shirt",
+      "price": 54.99,
+      "currency": "GBP",
+      "retailer": "Cozy Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Cream+Wool+Sweater",
+      "image": "https://placehold.co/400x500/png?text=Cream+Wool+Sweater",
+      "style_tags": [
+        "casual",
+        "minimalist",
+        "warm"
+      ],
+      "dominant_colors": [
+        [
+          240,
+          235,
+          225
+        ],
+        [
+          210,
+          205,
+          195
+        ],
+        [
+          220,
+          215,
+          200
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.1,
+        "contrast": 0.28,
+        "brightness": 0.88,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 1.15,
+        "coverage": 0.65
+      }
+    },
+    {
+      "id": "item_014",
+      "name": "Dark Leather Trousers",
+      "category": "trousers",
+      "price": 79.99,
+      "currency": "GBP",
+      "retailer": "Edgy Attire",
+      "link": "https://www.google.com/search?tbm=shop&q=Dark+Leather+Trousers",
+      "image": "https://placehold.co/400x500/png?text=Dark+Leather+Trousers",
+      "style_tags": [
+        "edgy",
+        "dark",
+        "formal"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          60,
+          60,
+          60
+        ],
+        [
+          90,
+          90,
+          90
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.32,
+        "contrast": 0.48,
+        "brightness": 0.3,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 2.0,
+        "coverage": 0.62
+      }
+    },
+    {
+      "id": "item_015",
+      "name": "Charcoal Sweater Jacket",
+      "category": "jacket",
+      "price": 69.99,
+      "currency": "GBP",
+      "retailer": "Layer Master",
+      "link": "https://www.google.com/search?tbm=shop&q=Charcoal+Sweater+Jacket",
+      "image": "https://placehold.co/400x500/png?text=Charcoal+Sweater+Jacket",
+      "style_tags": [
+        "casual",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          60,
+          60,
+          60
+        ],
+        [
+          90,
+          90,
+          90
+        ],
+        [
+          40,
+          40,
+          40
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.18,
+        "contrast": 0.35,
+        "brightness": 0.4,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 1.2,
+        "coverage": 0.68
+      }
+    },
+    {
+      "id": "item_016",
+      "name": "White Sneakers",
+      "category": "shoes",
+      "price": 64.99,
+      "currency": "GBP",
+      "retailer": "Sneaker Hub",
+      "link": "https://www.google.com/search?tbm=shop&q=White+Sneakers",
+      "image": "https://placehold.co/400x500/png?text=White+Sneakers",
+      "style_tags": [
+        "casual",
+        "minimalist",
+        "sporty"
+      ],
+      "dominant_colors": [
+        [
+          245,
+          245,
+          245
+        ],
+        [
+          200,
+          200,
+          200
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.24,
+        "contrast": 0.38,
+        "brightness": 0.85,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 0.9,
+        "coverage": 0.48
+      }
+    },
+    {
+      "id": "item_017",
+      "name": "Black Turtleneck",
+      "category": "t-shirt",
+      "price": 44.99,
+      "currency": "GBP",
+      "retailer": "Classic Basics",
+      "link": "https://www.google.com/search?tbm=shop&q=Black+Turtleneck",
+      "image": "https://placehold.co/400x500/png?text=Black+Turtleneck",
+      "style_tags": [
+        "dark",
+        "formal",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          20,
+          20,
+          20
+        ],
+        [
+          50,
+          50,
+          50
+        ],
+        [
+          80,
+          80,
+          80
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.14,
+        "contrast": 0.32,
+        "brightness": 0.28,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_018",
+      "name": "Blue Denim Jacket",
+      "category": "jacket",
+      "price": 74.99,
+      "currency": "GBP",
+      "retailer": "Denim Masters",
+      "link": "https://www.google.com/search?tbm=shop&q=Blue+Denim+Jacket",
+      "image": "https://placehold.co/400x500/png?text=Blue+Denim+Jacket",
+      "style_tags": [
+        "casual",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          40,
+          60,
+          90
+        ],
+        [
+          70,
+          95,
+          130
+        ],
+        [
+          110,
+          135,
+          170
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.3,
+        "contrast": 0.48,
+        "brightness": 0.5,
+        "saturation": 0.4
+      },
+      "shape": {
+        "aspect_ratio": 1.2,
+        "coverage": 0.65
+      }
+    },
+    {
+      "id": "item_019",
+      "name": "Olive Green Cargo Pants",
+      "category": "trousers",
+      "price": 54.99,
+      "currency": "GBP",
+      "retailer": "Adventure Wear",
+      "link": "https://www.google.com/search?tbm=shop&q=Olive+Green+Cargo+Pants",
+      "image": "https://placehold.co/400x500/png?text=Olive+Green+Cargo+Pants",
+      "style_tags": [
+        "casual",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          85,
+          95,
+          70
+        ],
+        [
+          110,
+          125,
+          90
+        ],
+        [
+          65,
+          75,
+          50
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.26,
+        "contrast": 0.4,
+        "brightness": 0.42,
+        "saturation": 0.38
+      },
+      "shape": {
+        "aspect_ratio": 1.95,
+        "coverage": 0.65
+      }
+    },
+    {
+      "id": "item_020",
+      "name": "Floral Midi Dress",
+      "category": "dress",
+      "price": 74.99,
+      "currency": "GBP",
+      "retailer": "Floral Dreams",
+      "link": "https://www.google.com/search?tbm=shop&q=Floral+Midi+Dress",
+      "image": "https://placehold.co/400x500/png?text=Floral+Midi+Dress",
+      "style_tags": [
+        "casual",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          220,
+          180,
+          200
+        ],
+        [
+          100,
+          150,
+          120
+        ],
+        [
+          240,
+          220,
+          230
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.16,
+        "contrast": 0.42,
+        "brightness": 0.65,
+        "saturation": 0.55
+      },
+      "shape": {
+        "aspect_ratio": 1.7,
+        "coverage": 0.62
+      }
+    },
+    {
+      "id": "item_021",
+      "name": "Silver Sequin Top",
+      "category": "t-shirt",
+      "price": 59.99,
+      "currency": "GBP",
+      "retailer": "Sparkle Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Silver+Sequin+Top",
+      "image": "https://placehold.co/400x500/png?text=Silver+Sequin+Top",
+      "style_tags": [
+        "formal",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          200,
+          200,
+          200
+        ],
+        [
+          150,
+          150,
+          150
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.45,
+        "contrast": 0.65,
+        "brightness": 0.7,
+        "saturation": 0.15
+      },
+      "shape": {
+        "aspect_ratio": 1.05,
+        "coverage": 0.55
+      }
+    },
+    {
+      "id": "item_022",
+      "name": "Brown Suede Jacket",
+      "category": "jacket",
+      "price": 109.99,
+      "currency": "GBP",
+      "retailer": "Leather Luxe",
+      "link": "https://www.google.com/search?tbm=shop&q=Brown+Suede+Jacket",
+      "image": "https://placehold.co/400x500/png?text=Brown+Suede+Jacket",
+      "style_tags": [
+        "vintage",
+        "formal",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          100,
+          75,
+          50
+        ],
+        [
+          130,
+          100,
+          70
+        ],
+        [
+          80,
+          60,
+          40
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.42,
+        "brightness": 0.42,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 1.3,
+        "coverage": 0.7
+      }
+    },
+    {
+      "id": "item_023",
+      "name": "Slim Fit White Dress Shirt",
+      "category": "shirt",
+      "price": 54.99,
+      "currency": "GBP",
+      "retailer": "Formal Fit",
+      "link": "https://www.google.com/search?tbm=shop&q=Slim+Fit+White+Dress+Shirt",
+      "image": "https://placehold.co/400x500/png?text=Slim+Fit+White+Dress+Shirt",
+      "style_tags": [
+        "formal",
+        "professional",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          250,
+          250,
+          250
+        ],
+        [
+          220,
+          220,
+          220
+        ],
+        [
+          180,
+          180,
+          180
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.12,
+        "contrast": 0.28,
+        "brightness": 0.92,
+        "saturation": 0.05
+      },
+      "shape": {
+        "aspect_ratio": 1.08,
+        "coverage": 0.52
+      }
+    },
+    {
+      "id": "item_024",
+      "name": "Printed Casual Shirt",
+      "category": "shirt",
+      "price": 39.99,
+      "currency": "GBP",
+      "retailer": "Graphic Tees",
+      "link": "https://www.google.com/search?tbm=shop&q=Printed+Casual+Shirt",
+      "image": "https://placehold.co/400x500/png?text=Printed+Casual+Shirt",
+      "style_tags": [
+        "casual",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          200,
+          150,
+          100
+        ],
+        [
+          100,
+          80,
+          60
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.48,
+        "brightness": 0.55,
+        "saturation": 0.5
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_025",
+      "name": "Black Canvas Shoes",
+      "category": "shoes",
+      "price": 44.99,
+      "currency": "GBP",
+      "retailer": "Canvas & Co",
+      "link": "https://www.google.com/search?tbm=shop&q=Black+Canvas+Shoes",
+      "image": "https://placehold.co/400x500/png?text=Black+Canvas+Shoes",
+      "style_tags": [
+        "casual",
+        "dark",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          25,
+          25,
+          25
+        ],
+        [
+          60,
+          60,
+          60
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.22,
+        "contrast": 0.35,
+        "brightness": 0.35,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 0.95,
+        "coverage": 0.5
+      }
+    },
+    {
+      "id": "item_026",
+      "name": "Wool Skirt",
+      "category": "skirt",
+      "price": 64.99,
+      "currency": "GBP",
+      "retailer": "Skirt Studio",
+      "link": "https://www.google.com/search?tbm=shop&q=Wool+Skirt",
+      "image": "https://placehold.co/400x500/png?text=Wool+Skirt",
+      "style_tags": [
+        "formal",
+        "vintage",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          40,
+          40,
+          40
+        ],
+        [
+          70,
+          70,
+          70
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.2,
+        "contrast": 0.38,
+        "brightness": 0.38,
+        "saturation": 0.12
+      },
+      "shape": {
+        "aspect_ratio": 1.3,
+        "coverage": 0.48
+      }
+    },
+    {
+      "id": "item_027",
+      "name": "Maroon V-Neck Sweater",
+      "category": "t-shirt",
+      "price": 49.99,
+      "currency": "GBP",
+      "retailer": "Sweater House",
+      "link": "https://www.google.com/search?tbm=shop&q=Maroon+V-Neck+Sweater",
+      "image": "https://placehold.co/400x500/png?text=Maroon+V-Neck+Sweater",
+      "style_tags": [
+        "formal",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          120,
+          30,
+          30
+        ],
+        [
+          150,
+          60,
+          60
+        ],
+        [
+          100,
+          20,
+          20
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.15,
+        "contrast": 0.4,
+        "brightness": 0.38,
+        "saturation": 0.6
+      },
+      "shape": {
+        "aspect_ratio": 1.15,
+        "coverage": 0.62
+      }
+    },
+    {
+      "id": "item_028",
+      "name": "Leather Belt",
+      "category": "accessory",
+      "price": 29.99,
+      "currency": "GBP",
+      "retailer": "Belt Essentials",
+      "link": "https://www.google.com/search?tbm=shop&q=Leather+Belt",
+      "image": "https://placehold.co/400x500/png?text=Leather+Belt",
+      "style_tags": [
+        "formal",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          25,
+          20
+        ],
+        [
+          60,
+          50,
+          40
+        ],
+        [
+          90,
+          80,
+          70
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.25,
+        "contrast": 0.45,
+        "brightness": 0.32,
+        "saturation": 0.2
+      },
+      "shape": {
+        "aspect_ratio": 0.3,
+        "coverage": 0.25
+      }
+    },
+    {
+      "id": "item_029",
+      "name": "Navy Beanie",
+      "category": "accessory",
+      "price": 19.99,
+      "currency": "GBP",
+      "retailer": "Head Wear",
+      "link": "https://www.google.com/search?tbm=shop&q=Navy+Beanie",
+      "image": "https://placehold.co/400x500/png?text=Navy+Beanie",
+      "style_tags": [
+        "casual",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          25,
+          45,
+          85
+        ],
+        [
+          50,
+          70,
+          110
+        ],
+        [
+          75,
+          95,
+          135
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.18,
+        "contrast": 0.32,
+        "brightness": 0.42,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 0.8,
+        "coverage": 0.35
+      }
+    },
+    {
+      "id": "item_030",
+      "name": "Gold Chain Necklace",
+      "category": "accessory",
+      "price": 34.99,
+      "currency": "GBP",
+      "retailer": "Jewelry Plus",
+      "link": "https://www.google.com/search?tbm=shop&q=Gold+Chain+Necklace",
+      "image": "https://placehold.co/400x500/png?text=Gold+Chain+Necklace",
+      "style_tags": [
+        "formal",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          220,
+          180,
+          80
+        ],
+        [
+          200,
+          160,
+          60
+        ],
+        [
+          240,
+          200,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.35,
+        "contrast": 0.55,
+        "brightness": 0.75,
+        "saturation": 0.65
+      },
+      "shape": {
+        "aspect_ratio": 0.2,
+        "coverage": 0.15
+      }
+    },
+    {
+      "id": "item_031",
+      "name": "Oversized Blazer",
+      "category": "jacket",
+      "price": 119.99,
+      "currency": "GBP",
+      "retailer": "Trendy Fit",
+      "link": "https://www.google.com/search?tbm=shop&q=Oversized+Blazer",
+      "image": "https://placehold.co/400x500/png?text=Oversized+Blazer",
+      "style_tags": [
+        "formal",
+        "professional",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          20,
+          20,
+          20
+        ],
+        [
+          55,
+          55,
+          55
+        ],
+        [
+          90,
+          90,
+          90
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.45,
+        "brightness": 0.32,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 1.4,
+        "coverage": 0.75
+      }
+    },
+    {
+      "id": "item_032",
+      "name": "Pastel Pink Cardigan",
+      "category": "jacket",
+      "price": 59.99,
+      "currency": "GBP",
+      "retailer": "Soft Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Pastel+Pink+Cardigan",
+      "image": "https://placehold.co/400x500/png?text=Pastel+Pink+Cardigan",
+      "style_tags": [
+        "casual",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          240,
+          200,
+          210
+        ],
+        [
+          220,
+          170,
+          190
+        ],
+        [
+          255,
+          220,
+          230
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.12,
+        "contrast": 0.25,
+        "brightness": 0.85,
+        "saturation": 0.35
+      },
+      "shape": {
+        "aspect_ratio": 1.2,
+        "coverage": 0.62
+      }
+    },
+    {
+      "id": "item_033",
+      "name": "Striped Long Sleeve Top",
+      "category": "shirt",
+      "price": 44.99,
+      "currency": "GBP",
+      "retailer": "Pattern Basics",
+      "link": "https://www.google.com/search?tbm=shop&q=Striped+Long+Sleeve+Top",
+      "image": "https://placehold.co/400x500/png?text=Striped+Long+Sleeve+Top",
+      "style_tags": [
+        "casual",
+        "professional"
+      ],
+      "dominant_colors": [
+        [
+          20,
+          20,
+          20
+        ],
+        [
+          240,
+          240,
+          240
+        ],
+        [
+          80,
+          120,
+          160
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.24,
+        "contrast": 0.48,
+        "brightness": 0.58,
+        "saturation": 0.35
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.58
+      }
+    },
+    {
+      "id": "item_034",
+      "name": "Ripped Jeans",
+      "category": "jeans",
+      "price": 64.99,
+      "currency": "GBP",
+      "retailer": "Edgy Denim",
+      "link": "https://www.google.com/search?tbm=shop&q=Ripped+Jeans",
+      "image": "https://placehold.co/400x500/png?text=Ripped+Jeans",
+      "style_tags": [
+        "edgy",
+        "dark",
+        "casual"
+      ],
+      "dominant_colors": [
+        [
+          40,
+          50,
+          65
+        ],
+        [
+          70,
+          85,
+          105
+        ],
+        [
+          110,
+          130,
+          155
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.4,
+        "contrast": 0.55,
+        "brightness": 0.4,
+        "saturation": 0.25
+      },
+      "shape": {
+        "aspect_ratio": 2.0,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_035",
+      "name": "Lace Blouse",
+      "category": "shirt",
+      "price": 69.99,
+      "currency": "GBP",
+      "retailer": "Delicate Wear",
+      "link": "https://www.google.com/search?tbm=shop&q=Lace+Blouse",
+      "image": "https://placehold.co/400x500/png?text=Lace+Blouse",
+      "style_tags": [
+        "formal",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          245,
+          240,
+          235
+        ],
+        [
+          200,
+          190,
+          180
+        ],
+        [
+          150,
+          140,
+          130
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.32,
+        "contrast": 0.38,
+        "brightness": 0.82,
+        "saturation": 0.15
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.56
+      }
+    },
+    {
+      "id": "item_036",
+      "name": "Desert Tan Chinos",
+      "category": "trousers",
+      "price": 54.99,
+      "currency": "GBP",
+      "retailer": "Comfort Pants",
+      "link": "https://www.google.com/search?tbm=shop&q=Desert+Tan+Chinos",
+      "image": "https://placehold.co/400x500/png?text=Desert+Tan+Chinos",
+      "style_tags": [
+        "casual",
+        "professional",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          200,
+          180,
+          140
+        ],
+        [
+          220,
+          200,
+          160
+        ],
+        [
+          180,
+          160,
+          120
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.16,
+        "contrast": 0.32,
+        "brightness": 0.7,
+        "saturation": 0.28
+      },
+      "shape": {
+        "aspect_ratio": 2.0,
+        "coverage": 0.58
+      }
+    },
+    {
+      "id": "item_037",
+      "name": "Faux Fur Coat",
+      "category": "coat",
+      "price": 149.99,
+      "currency": "GBP",
+      "retailer": "Luxury Coats",
+      "link": "https://www.google.com/search?tbm=shop&q=Faux+Fur+Coat",
+      "image": "https://placehold.co/400x500/png?text=Faux+Fur+Coat",
+      "style_tags": [
+        "formal",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          80,
+          75,
+          70
+        ],
+        [
+          120,
+          115,
+          110
+        ],
+        [
+          60,
+          55,
+          50
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.42,
+        "contrast": 0.5,
+        "brightness": 0.45,
+        "saturation": 0.12
+      },
+      "shape": {
+        "aspect_ratio": 1.4,
+        "coverage": 0.78
+      }
+    },
+    {
+      "id": "item_038",
+      "name": "Vintage Band T-Shirt",
+      "category": "t-shirt",
+      "price": 34.99,
+      "currency": "GBP",
+      "retailer": "Retro Tees",
+      "link": "https://www.google.com/search?tbm=shop&q=Vintage+Band+T-Shirt",
+      "image": "https://placehold.co/400x500/png?text=Vintage+Band+T-Shirt",
+      "style_tags": [
+        "vintage",
+        "edgy",
+        "casual"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          200,
+          50,
+          50
+        ],
+        [
+          150,
+          150,
+          150
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.52,
+        "brightness": 0.48,
+        "saturation": 0.55
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.58
+      }
+    },
+    {
+      "id": "item_039",
+      "name": "White Oxfords",
+      "category": "shoes",
+      "price": 79.99,
+      "currency": "GBP",
+      "retailer": "Classic Shoes",
+      "link": "https://www.google.com/search?tbm=shop&q=White+Oxfords",
+      "image": "https://placehold.co/400x500/png?text=White+Oxfords",
+      "style_tags": [
+        "formal",
+        "professional",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          250,
+          250,
+          250
+        ],
+        [
+          210,
+          210,
+          210
+        ],
+        [
+          170,
+          170,
+          170
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.2,
+        "contrast": 0.32,
+        "brightness": 0.88,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 0.85,
+        "coverage": 0.55
+      }
+    },
+    {
+      "id": "item_040",
+      "name": "Burgundy Handbag",
+      "category": "accessory",
+      "price": 89.99,
+      "currency": "GBP",
+      "retailer": "Bag Studio",
+      "link": "https://www.google.com/search?tbm=shop&q=Burgundy+Handbag",
+      "image": "https://placehold.co/400x500/png?text=Burgundy+Handbag",
+      "style_tags": [
+        "formal",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          120,
+          40,
+          40
+        ],
+        [
+          150,
+          70,
+          70
+        ],
+        [
+          100,
+          30,
+          30
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.42,
+        "brightness": 0.38,
+        "saturation": 0.55
+      },
+      "shape": {
+        "aspect_ratio": 1.2,
+        "coverage": 0.4
+      }
+    },
+    {
+      "id": "item_041",
+      "name": "Graphic Hoodie",
+      "category": "hoodie",
+      "price": 54.99,
+      "currency": "GBP",
+      "retailer": "Urban Graphics",
+      "link": "https://www.google.com/search?tbm=shop&q=Graphic+Hoodie",
+      "image": "https://placehold.co/400x500/png?text=Graphic+Hoodie",
+      "style_tags": [
+        "casual",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          200,
+          100,
+          50
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.26,
+        "contrast": 0.45,
+        "brightness": 0.42,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 1.2,
+        "coverage": 0.72
+      }
+    },
+    {
+      "id": "item_042",
+      "name": "Camel Wool Coat",
+      "category": "coat",
+      "price": 139.99,
+      "currency": "GBP",
+      "retailer": "Wool Experts",
+      "link": "https://www.google.com/search?tbm=shop&q=Camel+Wool+Coat",
+      "image": "https://placehold.co/400x500/png?text=Camel+Wool+Coat",
+      "style_tags": [
+        "formal",
+        "professional",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          180,
+          140,
+          100
+        ],
+        [
+          210,
+          170,
+          130
+        ],
+        [
+          150,
+          110,
+          70
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.24,
+        "contrast": 0.38,
+        "brightness": 0.6,
+        "saturation": 0.42
+      },
+      "shape": {
+        "aspect_ratio": 1.35,
+        "coverage": 0.72
+      }
+    },
+    {
+      "id": "item_043",
+      "name": "Black Skinny Jeans",
+      "category": "jeans",
+      "price": 59.99,
+      "currency": "GBP",
+      "retailer": "Jeans Plus",
+      "link": "https://www.google.com/search?tbm=shop&q=Black+Skinny+Jeans",
+      "image": "https://placehold.co/400x500/png?text=Black+Skinny+Jeans",
+      "style_tags": [
+        "dark",
+        "edgy",
+        "casual"
+      ],
+      "dominant_colors": [
+        [
+          20,
+          25,
+          35
+        ],
+        [
+          50,
+          60,
+          80
+        ],
+        [
+          100,
+          115,
+          140
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.3,
+        "contrast": 0.48,
+        "brightness": 0.32,
+        "saturation": 0.28
+      },
+      "shape": {
+        "aspect_ratio": 2.15,
+        "coverage": 0.55
+      }
+    },
+    {
+      "id": "item_044",
+      "name": "Silk Camisole",
+      "category": "t-shirt",
+      "price": 49.99,
+      "currency": "GBP",
+      "retailer": "Silk Dreams",
+      "link": "https://www.google.com/search?tbm=shop&q=Silk+Camisole",
+      "image": "https://placehold.co/400x500/png?text=Silk+Camisole",
+      "style_tags": [
+        "formal",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          50,
+          50,
+          50
+        ],
+        [
+          100,
+          100,
+          100
+        ],
+        [
+          30,
+          30,
+          30
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.08,
+        "contrast": 0.25,
+        "brightness": 0.38,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 0.95,
+        "coverage": 0.48
+      }
+    },
+    {
+      "id": "item_045",
+      "name": "Brown Leather Boots",
+      "category": "boots",
+      "price": 94.99,
+      "currency": "GBP",
+      "retailer": "Boot Masters",
+      "link": "https://www.google.com/search?tbm=shop&q=Brown+Leather+Boots",
+      "image": "https://placehold.co/400x500/png?text=Brown+Leather+Boots",
+      "style_tags": [
+        "vintage",
+        "formal",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          100,
+          75,
+          50
+        ],
+        [
+          130,
+          100,
+          70
+        ],
+        [
+          80,
+          60,
+          40
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.34,
+        "contrast": 0.5,
+        "brightness": 0.42,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 1.8,
+        "coverage": 0.5
+      }
+    },
+    {
+      "id": "item_046",
+      "name": "Polka Dot Dress",
+      "category": "dress",
+      "price": 64.99,
+      "currency": "GBP",
+      "retailer": "Dot Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Polka+Dot+Dress",
+      "image": "https://placehold.co/400x500/png?text=Polka+Dot+Dress",
+      "style_tags": [
+        "casual",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          240,
+          240,
+          240
+        ],
+        [
+          200,
+          150,
+          180
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.5,
+        "brightness": 0.6,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 1.6,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_047",
+      "name": "Sunglasses",
+      "category": "accessory",
+      "price": 69.99,
+      "currency": "GBP",
+      "retailer": "Eye Wear",
+      "link": "https://www.google.com/search?tbm=shop&q=Sunglasses",
+      "image": "https://placehold.co/400x500/png?text=Sunglasses",
+      "style_tags": [
+        "dark",
+        "formal",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          20,
+          20,
+          20
+        ],
+        [
+          50,
+          50,
+          50
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.32,
+        "contrast": 0.48,
+        "brightness": 0.32,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 2.5,
+        "coverage": 0.2
+      }
+    },
+    {
+      "id": "item_048",
+      "name": "Cropped Sweater",
+      "category": "t-shirt",
+      "price": 44.99,
+      "currency": "GBP",
+      "retailer": "Trendy Knitwear",
+      "link": "https://www.google.com/search?tbm=shop&q=Cropped+Sweater",
+      "image": "https://placehold.co/400x500/png?text=Cropped+Sweater",
+      "style_tags": [
+        "casual",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          40,
+          40,
+          40
+        ],
+        [
+          100,
+          100,
+          100
+        ],
+        [
+          70,
+          70,
+          70
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.14,
+        "contrast": 0.32,
+        "brightness": 0.45,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 1.0,
+        "coverage": 0.5
+      }
+    },
+    {
+      "id": "item_049",
+      "name": "Metallic Skirt",
+      "category": "skirt",
+      "price": 74.99,
+      "currency": "GBP",
+      "retailer": "Shiny Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Metallic+Skirt",
+      "image": "https://placehold.co/400x500/png?text=Metallic+Skirt",
+      "style_tags": [
+        "formal",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          180,
+          180,
+          180
+        ],
+        [
+          150,
+          150,
+          150
+        ],
+        [
+          100,
+          100,
+          100
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.38,
+        "contrast": 0.6,
+        "brightness": 0.65,
+        "saturation": 0.2
+      },
+      "shape": {
+        "aspect_ratio": 1.25,
+        "coverage": 0.45
+      }
+    },
+    {
+      "id": "item_050",
+      "name": "Wool Vest",
+      "category": "t-shirt",
+      "price": 54.99,
+      "currency": "GBP",
+      "retailer": "Layering Hub",
+      "link": "https://www.google.com/search?tbm=shop&q=Wool+Vest",
+      "image": "https://placehold.co/400x500/png?text=Wool+Vest",
+      "style_tags": [
+        "formal",
+        "vintage",
+        "professional"
+      ],
+      "dominant_colors": [
+        [
+          80,
+          80,
+          80
+        ],
+        [
+          110,
+          110,
+          110
+        ],
+        [
+          50,
+          50,
+          50
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.2,
+        "contrast": 0.35,
+        "brightness": 0.42,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 1.05,
+        "coverage": 0.55
+      }
+    },
+    {
+      "id": "item_051",
+      "name": "Plaid Jacket",
+      "category": "jacket",
+      "price": 84.99,
+      "currency": "GBP",
+      "retailer": "Checked Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Plaid+Jacket",
+      "image": "https://placehold.co/400x500/png?text=Plaid+Jacket",
+      "style_tags": [
+        "vintage",
+        "casual"
+      ],
+      "dominant_colors": [
+        [
+          100,
+          50,
+          40
+        ],
+        [
+          180,
+          150,
+          140
+        ],
+        [
+          60,
+          40,
+          30
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.32,
+        "contrast": 0.48,
+        "brightness": 0.5,
+        "saturation": 0.4
+      },
+      "shape": {
+        "aspect_ratio": 1.25,
+        "coverage": 0.68
+      }
+    },
+    {
+      "id": "item_052",
+      "name": "Maxi Skirt",
+      "category": "skirt",
+      "price": 69.99,
+      "currency": "GBP",
+      "retailer": "Long & Flowing",
+      "link": "https://www.google.com/search?tbm=shop&q=Maxi+Skirt",
+      "image": "https://placehold.co/400x500/png?text=Maxi+Skirt",
+      "style_tags": [
+        "formal",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          50,
+          40,
+          30
+        ],
+        [
+          90,
+          80,
+          70
+        ],
+        [
+          130,
+          120,
+          110
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.18,
+        "contrast": 0.35,
+        "brightness": 0.45,
+        "saturation": 0.3
+      },
+      "shape": {
+        "aspect_ratio": 2.2,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_053",
+      "name": "Mesh Tank Top",
+      "category": "t-shirt",
+      "price": 34.99,
+      "currency": "GBP",
+      "retailer": "Mesh Fashion",
+      "link": "https://www.google.com/search?tbm=shop&q=Mesh+Tank+Top",
+      "image": "https://placehold.co/400x500/png?text=Mesh+Tank+Top",
+      "style_tags": [
+        "casual",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          150,
+          150,
+          150
+        ],
+        [
+          80,
+          80,
+          80
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.36,
+        "contrast": 0.42,
+        "brightness": 0.48,
+        "saturation": 0.12
+      },
+      "shape": {
+        "aspect_ratio": 1.05,
+        "coverage": 0.45
+      }
+    },
+    {
+      "id": "item_054",
+      "name": "Leather Loafers",
+      "category": "shoes",
+      "price": 94.99,
+      "currency": "GBP",
+      "retailer": "Shoe Elite",
+      "link": "https://www.google.com/search?tbm=shop&q=Leather+Loafers",
+      "image": "https://placehold.co/400x500/png?text=Leather+Loafers",
+      "style_tags": [
+        "formal",
+        "professional"
+      ],
+      "dominant_colors": [
+        [
+          80,
+          60,
+          40
+        ],
+        [
+          120,
+          100,
+          80
+        ],
+        [
+          60,
+          40,
+          20
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.24,
+        "contrast": 0.4,
+        "brightness": 0.45,
+        "saturation": 0.38
+      },
+      "shape": {
+        "aspect_ratio": 0.9,
+        "coverage": 0.58
+      }
+    },
+    {
+      "id": "item_055",
+      "name": "Tie",
+      "category": "accessory",
+      "price": 24.99,
+      "currency": "GBP",
+      "retailer": "Tie Gallery",
+      "link": "https://www.google.com/search?tbm=shop&q=Tie",
+      "image": "https://placehold.co/400x500/png?text=Tie",
+      "style_tags": [
+        "formal",
+        "professional"
+      ],
+      "dominant_colors": [
+        [
+          25,
+          45,
+          85
+        ],
+        [
+          50,
+          70,
+          110
+        ],
+        [
+          75,
+          95,
+          135
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.45,
+        "brightness": 0.45,
+        "saturation": 0.45
+      },
+      "shape": {
+        "aspect_ratio": 0.15,
+        "coverage": 0.12
+      }
+    },
+    {
+      "id": "item_056",
+      "name": "Denim Shorts",
+      "category": "trousers",
+      "price": 44.99,
+      "currency": "GBP",
+      "retailer": "Shorts Co",
+      "link": "https://www.google.com/search?tbm=shop&q=Denim+Shorts",
+      "image": "https://placehold.co/400x500/png?text=Denim+Shorts",
+      "style_tags": [
+        "casual",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          40,
+          60,
+          90
+        ],
+        [
+          70,
+          95,
+          130
+        ],
+        [
+          110,
+          135,
+          170
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.28,
+        "contrast": 0.45,
+        "brightness": 0.48,
+        "saturation": 0.38
+      },
+      "shape": {
+        "aspect_ratio": 1.1,
+        "coverage": 0.45
+      }
+    },
+    {
+      "id": "item_057",
+      "name": "Scarf",
+      "category": "accessory",
+      "price": 34.99,
+      "currency": "GBP",
+      "retailer": "Scarf House",
+      "link": "https://www.google.com/search?tbm=shop&q=Scarf",
+      "image": "https://placehold.co/400x500/png?text=Scarf",
+      "style_tags": [
+        "formal",
+        "vintage"
+      ],
+      "dominant_colors": [
+        [
+          180,
+          140,
+          100
+        ],
+        [
+          210,
+          170,
+          130
+        ],
+        [
+          150,
+          110,
+          70
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.16,
+        "contrast": 0.35,
+        "brightness": 0.6,
+        "saturation": 0.4
+      },
+      "shape": {
+        "aspect_ratio": 3.5,
+        "coverage": 0.18
+      }
+    },
+    {
+      "id": "item_058",
+      "name": "Tuxedo Jacket",
+      "category": "jacket",
+      "price": 179.99,
+      "currency": "GBP",
+      "retailer": "Formal Elegance",
+      "link": "https://www.google.com/search?tbm=shop&q=Tuxedo+Jacket",
+      "image": "https://placehold.co/400x500/png?text=Tuxedo+Jacket",
+      "style_tags": [
+        "formal",
+        "professional",
+        "dark"
+      ],
+      "dominant_colors": [
+        [
+          15,
+          15,
+          15
+        ],
+        [
+          40,
+          40,
+          40
+        ],
+        [
+          70,
+          70,
+          70
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.26,
+        "contrast": 0.42,
+        "brightness": 0.25,
+        "saturation": 0.08
+      },
+      "shape": {
+        "aspect_ratio": 1.3,
+        "coverage": 0.7
+      }
+    },
+    {
+      "id": "item_059",
+      "name": "Linen Pants",
+      "category": "trousers",
+      "price": 64.99,
+      "currency": "GBP",
+      "retailer": "Linen Comfort",
+      "link": "https://www.google.com/search?tbm=shop&q=Linen+Pants",
+      "image": "https://placehold.co/400x500/png?text=Linen+Pants",
+      "style_tags": [
+        "casual",
+        "minimalist"
+      ],
+      "dominant_colors": [
+        [
+          220,
+          210,
+          195
+        ],
+        [
+          240,
+          230,
+          215
+        ],
+        [
+          200,
+          190,
+          175
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.14,
+        "contrast": 0.28,
+        "brightness": 0.8,
+        "saturation": 0.2
+      },
+      "shape": {
+        "aspect_ratio": 2.0,
+        "coverage": 0.6
+      }
+    },
+    {
+      "id": "item_060",
+      "name": "Biker Vest",
+      "category": "jacket",
+      "price": 99.99,
+      "currency": "GBP",
+      "retailer": "Biker Gear",
+      "link": "https://www.google.com/search?tbm=shop&q=Biker+Vest",
+      "image": "https://placehold.co/400x500/png?text=Biker+Vest",
+      "style_tags": [
+        "dark",
+        "edgy"
+      ],
+      "dominant_colors": [
+        [
+          25,
+          25,
+          25
+        ],
+        [
+          60,
+          60,
+          60
+        ],
+        [
+          95,
+          95,
+          95
+        ]
+      ],
+      "texture": {
+        "edge_density": 0.4,
+        "contrast": 0.55,
+        "brightness": 0.32,
+        "saturation": 0.1
+      },
+      "shape": {
+        "aspect_ratio": 1.15,
+        "coverage": 0.62
+      }
+    }
+  ]
+}
